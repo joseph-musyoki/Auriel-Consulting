@@ -1,4 +1,5 @@
 # Auriel Consultancy Website
+Live Site: https://joseph-musyoki.github.io/Auriel-Consulting/
 
 A modern, responsive website for Auriel Consultancy, designed to showcase professional consulting services, business solutions, and project experience.
 
